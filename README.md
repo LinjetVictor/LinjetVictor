@@ -12,3 +12,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=LinjetVictor&icon=0&color=0)](https://visitcount.itsvg.in)
 
+https://streak-stats.demolab.com/?user=LinjetVictor&theme=dark&hide_border=false&v=2
+
